@@ -10,18 +10,18 @@
 ### 截图
 
 #### csv 文件导入
-![截图](Assets/README_IMG/1.jpg)
+![截图](Assets/README_IMG/1.png)
 
 #### 一天不同时段骑行量统计
-![截图](Assets/README_IMG/2.jpg)
+![截图](Assets/README_IMG/2.png)
 
 #### 骑行距离统计
-![截图](Assets/README_IMG/3.jpg)
+![截图](Assets/README_IMG/3.png)
 
 #### SQL 语句查询
-![截图](Assets/README_IMG/4.jpg)
+![截图](Assets/README_IMG/4.png)
 
 #### 表格热力图
-![截图](Assets/README_IMG/5.jpg)
+![截图](Assets/README_IMG/5.png)
 
 2019 ShockJockey.
